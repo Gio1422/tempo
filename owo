@@ -1,0 +1,641 @@
+Music
+├── 7Chariot
+│   └── 7Chariot (Album)
+│       ├── 01 Life.flac
+│       ├── 02 Stranger.flac
+│       ├── 03 Danger in Me.flac
+│       ├── 04 Ricochet.flac
+│       ├── 05 Elevator Music.flac
+│       ├── 06 Pyrokinesis.flac
+│       ├── 07 Eulogy.flac
+│       └── cover.jpg
+├── Big Data
+│   ├── 1.0 (Album)
+│   │   ├── 01 The Stroke of Return.mp3
+│   │   ├── 02 Dangerous (feat. Joywave).flac
+│   │   ├── 03 Big Dater.flac
+│   │   ├── 04 Bombs Over Brooklyn.mp3
+│   │   └── cover.png
+│   ├── 1.6 (feat. Joywave) (Album)
+│   │   ├── 01 Dangerous (feat. Joywave) (Oliver Remix).flac
+│   │   ├── 01 Dangerous (feat. Joywave) (Oliver Remix).lrc
+│   │   ├── 02 Dangerous (feat. Joywave) (Spacebrother's Disco Dancing Remix).flac
+│   │   ├── 03 Dangerous (feat. Joywave) (CHAPPO Remix).flac
+│   │   ├── 04 Dangerous (feat. Joywave) (ASTR Remix).flac
+│   │   ├── 05 Dangerous (feat. Joywave) (Spacebrother's Electro Stomp Remix).flac
+│   │   ├── 06 Dangerous (feat. Joywave) (Sebu Remix).flac
+│   │   ├── 07 Dangerous (feat. Joywave) (Sweet Valley Remix).flac
+│   │   └── cover.jpg
+│   ├── 2.0 (Album)
+│   │   ├── 01 The Business of Emotion (feat. White Sea).flac
+│   │   ├── 01 The Business of Emotion (feat. White Sea).lrc
+│   │   ├── 02 Dangerous (feat. Joywave).flac
+│   │   ├── 02 Dangerous (feat. Joywave).lrc
+│   │   ├── 03 Clean (feat. Jamie Lidell).flac
+│   │   ├── 04 The Glow (feat. Kimbra).flac
+│   │   ├── 05 Snowed In (feat. Rivers Cuomo).flac
+│   │   ├── 06 Big Dater.flac
+│   │   ├── 07 Automatic (feat. Jenn Wasner).flac
+│   │   ├── 08 Get Some Freedom (feat. Dragonette).flac
+│   │   ├── 09 Sick for Me (feat. Bear Hands).flac
+│   │   ├── 10 Perfect Holiday (feat. Twin Shadow).flac
+│   │   └── cover.jpg
+│   ├── 3.0 (Album)
+│   │   ├── 01 Slay.flac
+│   │   ├── 02 Evolution Once Again.flac
+│   │   ├── 03 See Through.flac
+│   │   ├── 04 Put Me to Work.flac
+│   │   ├── 05 Unglued.flac
+│   │   ├── 06 Monster.flac
+│   │   ├── 07 Give Me Life.flac
+│   │   ├── 08 Evolutional.flac
+│   │   ├── 09 Candy.flac
+│   │   ├── 10 Live Forever.flac
+│   │   └── cover.jpg
+│   ├── 3.1 (Single)
+│   │   ├── 01 See Through (Matthew O'Malley Remix).flac
+│   │   ├── 02 Unglued (0224 Remix).flac
+│   │   └── cover.jpg
+│   └── Fair Trade (Single)
+│       ├── 01 Let Go (feat. Lizy Ryan).flac
+│       ├── 02 Dangerous (feat. Pink Feathers).flac
+│       └── cover.jpg
+├── C418
+│   ├── 148 (Album)
+│   │   ├── 01 Semantic Satiation.flac
+│   │   ├── 02 Septic Shock.flac
+│   │   ├── 03 Seismic Stratigraphy.flac
+│   │   ├── 04 Droopy Remembers.flac
+│   │   ├── 05 Kompass (feat. Disasterpeace).flac
+│   │   ├── 06 185 (feat. Baiyon).flac
+│   │   ├── 07 Jimtention (feat. Big Giant Circles).flac
+│   │   ├── 08 Tsuki No Koibumi 2 (feat. Laura Shigihara).flac
+│   │   ├── 09 Friend.flac
+│   │   ├── 10 Vierton.flac
+│   │   ├── 11 Aria Economy.flac
+│   │   ├── 12 Biome Party.flac
+│   │   ├── 13 481772.flac
+│   │   ├── 14 Ample Time.flac
+│   │   ├── 15 Habitual Crush.flac
+│   │   ├── 16 Divide by Four Add Seven.flac
+│   │   ├── 17 Round up to the Inevitable End.flac
+│   │   ├── 18 Beta.flac
+│   │   ├── 19 841.flac
+│   │   └── cover.jpg
+│   ├── 72 Minutes of Fame (Album)
+│   │   ├── 01 Timelapse Kingdom.flac
+│   │   ├── 02 United Colors of Scrapyard.flac
+│   │   ├── 03 Alive.flac
+│   │   ├── 04 I Jike My Lob.flac
+│   │   ├── 05 Bd08.flac
+│   │   ├── 06 You Have to Cut the Dope.flac
+│   │   ├── 07 Marketing Squander Versus the Little Man.flac
+│   │   ├── 08 From the Window.flac
+│   │   ├── 09 Along the Busiest of Roads.flac
+│   │   ├── 10 Welcome Back to the Machine.flac
+│   │   ├── 11 Stilbruch.flac
+│   │   └── cover.jpg
+│   ├── Axolotl (Single)
+│   │   ├── 01 Axolotl.flac
+│   │   └── cover.jpg
+│   ├── Dief (Album)
+│   │   ├── 01 Texture Prayers.flac
+│   │   ├── 02 Work Life Imbalance.flac
+│   │   ├── 03 Imaginary Interlude.flac
+│   │   ├── 04 Smooth Fall.flac
+│   │   ├── 05 Blank Cubicle.flac
+│   │   ├── 06 Keighley.flac
+│   │   ├── 07 Match Cut.flac
+│   │   └── cover.jpg
+│   ├── Dragon Fish (Single)
+│   │   ├── 01 Dragon Fish.flac
+│   │   └── cover.jpg
+│   ├── Excursions (Album)
+│   │   ├── 01 Excursions.flac
+│   │   ├── 02 Cold Summer.flac
+│   │   ├── 03 Txl.flac
+│   │   ├── 04 Tingle.flac
+│   │   ├── 05 Beton.flac
+│   │   ├── 06 Ams.flac
+│   │   ├── 07 Thunderbird.flac
+│   │   ├── 08 Aviva.flac
+│   │   ├── 09 Figure 8.flac
+│   │   ├── 10 Fake Triplets.flac
+│   │   ├── 11 Nest.flac
+│   │   ├── 12 Home.flac
+│   │   ├── 13 Atx.flac
+│   │   ├── 14 Leak.flac
+│   │   ├── 15 The President Is Dead.flac
+│   │   ├── 16 Hope.flac
+│   │   └── cover.jpg
+│   ├── Minecraft - Volume Alpha (Album)
+│   │   ├── 01 Key.flac
+│   │   ├── 02 Door.flac
+│   │   ├── 03 Subwoofer Lullaby.flac
+│   │   ├── 04 Death.flac
+│   │   ├── 05 Living Mice.flac
+│   │   ├── 06 Moog City.flac
+│   │   ├── 07 Haggstrom.flac
+│   │   ├── 08 Minecraft.flac
+│   │   ├── 09 Oxygène.flac
+│   │   ├── 10 Équinoxe.flac
+│   │   ├── 11 Mice on Venus.flac
+│   │   ├── 12 Dry Hands.flac
+│   │   ├── 13 Wet Hands.flac
+│   │   ├── 14 Clark.flac
+│   │   ├── 15 Chris.flac
+│   │   ├── 16 Thirteen.flac
+│   │   ├── 17 Excuse.flac
+│   │   ├── 18 Sweden.flac
+│   │   ├── 19 Cat.flac
+│   │   ├── 20 Dog.flac
+│   │   ├── 21 Danny.flac
+│   │   ├── 22 Beginning.flac
+│   │   ├── 23 Droopy Likes Ricochet.flac
+│   │   ├── 24 Droopy Likes Your Face.flac
+│   │   └── cover.jpg
+│   ├── Minecraft - Volume Beta (Album)
+│   │   ├── 01 Ki.flac
+│   │   ├── 02 Alpha.flac
+│   │   ├── 03 Dead Voxel.flac
+│   │   ├── 04 Blind Spots.flac
+│   │   ├── 05 Flake.flac
+│   │   ├── 06 Moog City 2.flac
+│   │   ├── 07 Concrete Halls.flac
+│   │   ├── 08 Biome Fest.flac
+│   │   ├── 09 Mutation.flac
+│   │   ├── 10 Haunt Muskie.flac
+│   │   ├── 11 Warmth.flac
+│   │   ├── 12 Floating Trees.flac
+│   │   ├── 13 Aria Math.flac
+│   │   ├── 14 Kyoto.flac
+│   │   ├── 15 Ballad of the Cats.flac
+│   │   ├── 16 Taswell.flac
+│   │   ├── 17 Beginning 2.flac
+│   │   ├── 18 Dreiton.flac
+│   │   ├── 19 The End.flac
+│   │   ├── 20 Chirp.flac
+│   │   ├── 21 Wait.flac
+│   │   ├── 22 Mellohi.flac
+│   │   ├── 23 Stal.flac
+│   │   ├── 24 Strad.flac
+│   │   ├── 25 Eleven.flac
+│   │   ├── 26 Ward.flac
+│   │   ├── 27 Mall.flac
+│   │   ├── 28 Blocks.flac
+│   │   ├── 29 Far.flac
+│   │   ├── 30 Intro.flac
+│   │   └── cover.jpg
+│   ├── One (Album)
+│   │   ├── 01 Cliffside Hinson.flac
+│   │   ├── 02 Surface Pension.flac
+│   │   ├── 03 Independent Accident.flac
+│   │   ├── 04 Danny Makes Chiptune.flac
+│   │   ├── 05 The First Million.flac
+│   │   ├── 06 Certitudes.flac
+│   │   ├── 07 Impostor Syndrome.flac
+│   │   ├── 08 Buildup Errors.flac
+│   │   ├── 09 For the Sake of Making Games.flac
+│   │   ├── 10 Preliminary Art Form.flac
+│   │   ├── 11 Lawyer Cage Fight.flac
+│   │   ├── 12 Lost Cousins.flac
+│   │   ├── 13 Total Drag.flac
+│   │   ├── 14 Drunken Carboni.flac
+│   │   ├── 15 The Weirdest Year of Your Life.flac
+│   │   ├── 16 Swarms.flac
+│   │   ├── 17 Diskdance.flac
+│   │   ├── 18 Pr Department.flac
+│   │   ├── 19 Faux Video Production.flac
+│   │   ├── 20 One Last Game.flac
+│   │   ├── 21 This Doesn't Work.flac
+│   │   ├── 22 Wooden Love.flac
+│   │   ├── 23 I Glove Thy Flob (feat. Disco).flac
+│   │   ├── 24 Post Success Depression.flac
+│   │   ├── 25 Social Lego.flac
+│   │   ├── 26 Jayson Glove.flac
+│   │   ├── 27 Clumsiness and Innovation.flac
+│   │   ├── 28 No Pressure.flac
+│   │   ├── 29 One.flac
+│   │   ├── 30 Fifflas (feat. Nifflas).flac
+│   │   ├── 31 Tsuki No Koibumi (feat. Laura Shigihara).flac
+│   │   └── cover.jpg
+│   └── Shuniji (Single)
+│       ├── 01 Shuniji.flac
+│       └── cover.jpg
+├── Cedric Gervais
+│   └── Everybody Wants To Be Famous [Cedric Gervais vs Superorganism] (Cedric Gervais Remix) (Single)
+│       ├── 01 Everybody Wants to Be Famous [Cedric Gervais vs Superorganism] (Cedric Gervais Remix Edit).flac
+│       ├── 02 Everybody Wants to Be Famous [Cedric Gervais vs Superorganism] (Cedric Gervais Remix).flac
+│       └── cover.jpg
+├── Clairity
+│   ├── Alienation (Album)
+│   │   ├── 01 DNA.flac
+│   │   ├── 02 Scarecrow (Radio Edit).flac
+│   │   ├── 03 Exorcism.flac
+│   │   ├── 04 Velcro.flac
+│   │   └── cover.jpg
+│   ├── Broken Things (Single)
+│   │   ├── 01 Broken Things.flac
+│   │   └── cover.jpg
+│   ├── Love in the Light (Single)
+│   │   ├── 01 Love in the Light.flac
+│   │   └── cover.jpg
+│   ├── Sharks In The Swimming Pool (Single)
+│   │   ├── 01 Sharks In The Swimming Pool.flac
+│   │   └── cover.jpg
+│   ├── Sharks In The Swimming Pool (The Noisy Freaks Remix) (Single)
+│   │   ├── 01 Sharks In The Swimming Pool (The Noisy Freaks Remix).flac
+│   │   └── cover.jpg
+│   └── Words Like Weapons (Single)
+│       ├── 01 Words Like Weapons.flac
+│       └── cover.jpg
+├── Color Theory
+│   ├── Adjustments (Deluxe Edition) (Album)
+│   │   ├── 01 A Work in Progress.flac
+│   │   ├── 02 Headphones.flac
+│   │   ├── 03 What You Said.flac
+│   │   ├── 04 The Best Revenge.flac
+│   │   ├── 05 Playing Favorites.flac
+│   │   ├── 06 Slot Machine.flac
+│   │   ├── 07 Productivity.flac
+│   │   ├── 08 Drive You Home.flac
+│   │   ├── 09 The Motions.flac
+│   │   ├── 10 OBE.flac
+│   │   ├── 11 The Light Inside.flac
+│   │   ├── 12 Half.flac
+│   │   ├── 13 A Slip of the Finger.flac
+│   │   ├── 14 Could It Be Magic.flac
+│   │   ├── 15 That.flac
+│   │   ├── 16 A Work in Progress (Rafael Dyll Remix).flac
+│   │   ├── 17 Headphones (Andrea Dub Remix).flac
+│   │   ├── 18 What You Said (Matt Mancid Remix).flac
+│   │   ├── 19 The Best Revenge (Robots With Rayguns Remix).flac
+│   │   ├── 20 Playing Favorites (Lyder Janøy Remix).flac
+│   │   ├── 21 Slot Machine (Diskodiktator Remix).flac
+│   │   ├── 22 Productivity (Matt Mancid Version).flac
+│   │   ├── 23 Drive You Home (Robots With Rayguns Remix).flac
+│   │   ├── 24 The Motions (Nikmo Remix).flac
+│   │   ├── 25 OBE (Memoryy Remix).flac
+│   │   ├── 26 The Light Inside (Lyder Janøy Remix).flac
+│   │   ├── 27 Half (Odd Year Remix).flac
+│   │   ├── 28 A Slip of the Finger (Adam Gubman Remix).flac
+│   │   ├── 29 Could It Be Magic (Lyder Janøy Remix).flac
+│   │   ├── 30 That (Neil Delta Remix).flac
+│   │   └── cover.jpg
+│   └── Lucky Ago (Album)
+│       ├── 01 Shatterproof.flac
+│       ├── 02 Unsigned.flac
+│       ├── 03 Hand.flac
+│       ├── 04 Avian.flac
+│       ├── 05 Phobiac.flac
+│       ├── 06 Lore.flac
+│       ├── 07 Dismembered.flac
+│       ├── 08 Fingers.flac
+│       ├── 09 Sniper.flac
+│       ├── 10 Backward.flac
+│       ├── 11 Feral.flac
+│       └── cover.jpg
+├── Dreamers
+│   └── Heat Seeker (Single)
+│       ├── 01 Heat Seeker.flac
+│       ├── 01 Heat Seeker.lrc
+│       └── cover.jpg
+├── Gracie and Rachel
+│   ├── Elastic Heart (Single)
+│   │   ├── 01 Elastic Heart.flac
+│   │   └── cover.jpg
+│   ├── Gracie and Rachel (Album)
+│   │   ├── 01 Tiptoe.flac
+│   │   ├── 02 Sing Song.flac
+│   │   ├── 03 Only A Child.flac
+│   │   ├── 04 Go.flac
+│   │   ├── 05 (Un)comfortable.flac
+│   │   ├── 06 It's Time.flac
+│   │   ├── 07 Let It Out.flac
+│   │   ├── 08 Upside Down.flac
+│   │   ├── 09 Don't Know.flac
+│   │   └── cover.jpg
+│   ├── Gracie and Rachel on Audiotree Live (Album)
+│   │   ├── 01 Tiptoe.flac
+│   │   ├── 02 Go.flac
+│   │   ├── 03 (Un)comfortable.flac
+│   │   ├── 04 Upside Down.flac
+│   │   ├── 05 Don't Know.flac
+│   │   └── cover.jpg
+│   ├── If the World Was Ending (Single)
+│   │   ├── 01 If the World Was Ending.flac
+│   │   └── cover.jpg
+│   ├── Trust (Ian Chang Remix) (Single)
+│   │   ├── 01 Trust (Ian Chang Remix).flac
+│   │   ├── 02 Trust.flac
+│   │   └── cover.jpg
+│   └── Underneath (Single)
+│       ├── 01 Underneath.flac
+│       ├── 02 Trust.flac
+│       ├── 03 Ideas.flac
+│       └── cover.jpg
+├── Grandson
+│   ├── Again (Text Voter XX to 40649) (Single)
+│   │   ├── 01 Again (Text Voter XX to 40649).flac
+│   │   └── cover.jpg
+│   ├── Apologize (Hidden Citizens Remix) (Single)
+│   │   ├── 01 Apologize (Hidden Citizens Remix).flac
+│   │   ├── 01 Apologize (Hidden Citizens Remix).lrc
+│   │   └── cover.jpg
+│   ├── Apologize Broken Down (Acoustic) (Single)
+│   │   ├── 01 Apologize Broken Down (Acoustic).flac
+│   │   └── cover.jpg
+│   ├── BLOOD - EDITS (Album)
+│   │   ├── 01 Blood - Water (AWOLNATION Remix).flac
+│   │   ├── 02 Blood - Water (Tom Morello Remix).flac
+│   │   ├── 03 Blood - Water (Krupa Remix).flac
+│   │   ├── 03 Blood - Water (Krupa Remix).lrc
+│   │   ├── 04 Blood - Water (King Kavalier Remix).flac
+│   │   ├── 05 Blood - Water (22 Bullets & Ghost Remix).flac
+│   │   └── cover.jpg
+│   ├── Best Friends (Single)
+│   │   ├── 01 Best Friends.flac
+│   │   ├── 01 Best Friends.lrc
+│   │   └── cover.jpg
+│   ├── Bills (Single)
+│   │   ├── 01 Bills.flac
+│   │   ├── 01 Bills.lrc
+│   │   └── cover.jpg
+│   ├── Bury Me Face Down (Single)
+│   │   ├── 01 Bury Me Face Down.flac
+│   │   ├── 01 Bury Me Face Down.lrc
+│   │   └── cover.jpg
+│   ├── Despicable (NIN9 Remix) (Single)
+│   │   ├── 01 Despicable (NIN9 Remix).flac
+│   │   ├── 01 Despicable (NIN9 Remix).lrc
+│   │   └── cover.jpg
+│   ├── Die Young (Saint Punk Remix) (Single)
+│   │   ├── 01 Die Young (Saint Punk Remix).flac
+│   │   └── cover.jpg
+│   ├── Happy Pill (Single)
+│   │   ├── 01 Happy Pill.flac
+│   │   └── cover.jpg
+│   ├── How Bout Now (Text Voter XX to 40649) (Single)
+│   │   ├── 01 How Bout Now (Text Voter XX to 40649).flac
+│   │   └── cover.jpg
+│   ├── Identity (Single)
+│   │   ├── 01 Identity.flac
+│   │   └── cover.jpg
+│   ├── Kiss Bang (Single)
+│   │   ├── 01 Kiss Bang.flac
+│   │   ├── 01 Kiss Bang.lrc
+│   │   └── cover.jpg
+│   ├── Maria (Single)
+│   │   ├── 01 Maria.flac
+│   │   └── cover.jpg
+│   ├── Peaches (Text Voter XX to 40649) (Single)
+│   │   ├── 01 Peaches (Text Voter XX to 40649).flac
+│   │   ├── 01 Peaches (Text Voter XX to 40649).lrc
+│   │   └── cover.jpg
+│   ├── Riptide (Single)
+│   │   ├── 01 Riptide.flac
+│   │   └── cover.jpg
+│   ├── War (Single)
+│   │   ├── 01 War.flac
+│   │   └── cover.jpg
+│   ├── Whole Lotta (Text Voter XX to 40649) (Single)
+│   │   ├── 01 Whole Lotta (Text Voter XX to 40649).flac
+│   │   └── cover.jpg
+│   ├── a modern tragedy vol. 1 (Album)
+│   │   ├── 01 Blood - Water.flac
+│   │   ├── 01 Blood - Water.lrc
+│   │   ├── 02 Stick Up.flac
+│   │   ├── 02 Stick Up.lrc
+│   │   ├── 03 Despicable.flac
+│   │   ├── 03 Despicable.lrc
+│   │   ├── 04 600.flac
+│   │   ├── 04 600.lrc
+│   │   ├── 05 Overdose.flac
+│   │   ├── 05 Overdose.lrc
+│   │   └── cover.jpg
+│   ├── a modern tragedy vol. 2 (Album)
+│   │   ├── 01 Apologize.flac
+│   │   ├── 01 Apologize.lrc
+│   │   ├── 02 Stigmata.flac
+│   │   ├── 03 Is This What You Wanted.flac
+│   │   ├── 04 Fallin (Temptation).flac
+│   │   ├── 05 Darkside.flac
+│   │   └── cover.jpg
+│   ├── a modern tragedy vol. 3 (Album)
+│   │   ├── 01 Rock Bottom.flac
+│   │   ├── 01 Rock Bottom.lrc
+│   │   ├── 02 Oh No!!!.flac
+│   │   ├── 02 Oh No!!!.lrc
+│   │   ├── 03 Put Me Under.flac
+│   │   ├── 04 Destroy Me.flac
+│   │   ├── 04 Destroy Me.lrc
+│   │   ├── 05 Die Young.flac
+│   │   └── cover.jpg
+│   ├── broken down vol. 1 (Single)
+│   │   ├── 01 Blood - Water (Acoustic).flac
+│   │   ├── 02 Despicable (Acoustic).flac
+│   │   └── cover.jpg
+│   ├── no apologies live EP (Album)
+│   │   ├── 01 Stigmata (Live in Los Angeles).flac
+│   │   ├── 02 600 (Live in Toronto).flac
+│   │   ├── 03 Overdose (Live in Toronto).flac
+│   │   ├── 04 Despicable (Live in Toronto).flac
+│   │   ├── 05 Apologize (Live in Toronto).flac
+│   │   ├── 06 Blood - Water (Live in Los Angeles).flac
+│   │   └── cover.jpg
+│   └── thoughts & prayers (Single)
+│       ├── 01 thoughts & prayers.flac
+│       ├── 01 thoughts & prayers.lrc
+│       └── cover.jpg
+├── Hyukoh
+│   └── Gang Gang Schiele (Single)
+│       ├── 01 Gang Gang Schiele (Superorganism Remix).flac
+│       ├── 01 Gang Gang Schiele (Superorganism Remix).lrc
+│       └── cover.jpg
+├── Isador
+│   ├── EP 1 (Album)
+│   │   ├── 01 Falling.flac
+│   │   ├── 02 Jungle.flac
+│   │   ├── 03 Get Down.flac
+│   │   ├── 04 Demons.flac
+│   │   ├── 05 Follow Me Down.flac
+│   │   └── cover.jpg
+│   ├── Isador (Single)
+│   │   ├── 01 #1.flac
+│   │   ├── 02 #2.flac
+│   │   ├── 03 #3.flac
+│   │   └── cover.jpg
+│   └── Wayward Sonology (Single)
+│       ├── 01 #4.flac
+│       ├── 02 #5.flac
+│       ├── 03 #6.flac
+│       └── cover.jpg
+├── Mike Shinoda
+│   └── Running From My Shadow (feat. grandson) (Single)
+│       ├── 01 Running From My Shadow (feat. grandson).flac
+│       ├── 01 Running From My Shadow (feat. grandson).lrc
+│       └── cover.jpg
+├── Poppy
+│   ├── All The Things She Said (Single)
+│   │   ├── 01 All The Things She Said.flac
+│   │   ├── 01 All The Things She Said.lrc
+│   │   └── cover.jpg
+│   ├── Am I A Girl (Album)
+│   │   ├── 01 In A Minute.flac
+│   │   ├── 02 Fashion After All.flac
+│   │   ├── 02 Fashion After All.lrc
+│   │   ├── 03 Iconic.flac
+│   │   ├── 04 Chic Chick.flac
+│   │   ├── 05 Interlude 1.flac
+│   │   ├── 06 Time Is Up.flac
+│   │   ├── 06 Time Is Up.lrc
+│   │   ├── 07 Aristocrat.flac
+│   │   ├── 08 Hard Feelings.flac
+│   │   ├── 09 Girls In Bikinis.flac
+│   │   ├── 10 The Rapture Ball.flac
+│   │   ├── 11 Interlude 2.flac
+│   │   ├── 12 Am I A Girl.flac
+│   │   ├── 13 Play Destroy.flac
+│   │   ├── 13 Play Destroy.lrc
+│   │   ├── 14 X.flac
+│   │   ├── 14 X.lrc
+│   │   └── cover.jpg
+│   ├── Bubblebath (Album)
+│   │   ├── 01 Lowlife.flac
+│   │   ├── 01 Lowlife.lrc
+│   │   ├── 02 Money.flac
+│   │   ├── 02 Money.lrc
+│   │   ├── 03 Altar.flac
+│   │   ├── 04 American Kids.flac
+│   │   └── cover.jpg
+│   ├── Choke (Album)
+│   │   ├── 01 Choke.flac
+│   │   ├── 01 Choke.lrc
+│   │   ├── 02 Voicemail.flac
+│   │   ├── 03 Scary Mask.flac
+│   │   ├── 03 Scary Mask.lrc
+│   │   ├── 04 Meat.flac
+│   │   ├── 05 The Holy Mountain.flac
+│   │   └── cover.jpg
+│   ├── I Disagree (more) (Album)
+│   │   ├── 01 Concrete.flac
+│   │   ├── 02 I Disagree.flac
+│   │   ├── 03 BLOODMONEY.flac
+│   │   ├── 04 Anything Like Me.flac
+│   │   ├── 05 Fill the Crown.flac
+│   │   ├── 06 Nothing I Need.flac
+│   │   ├── 07 Sit - Stay.flac
+│   │   ├── 08 Bite Your Teeth.flac
+│   │   ├── 09 Sick of the Sun.flac
+│   │   ├── 10 Don't Go Outside.flac
+│   │   ├── 11 If It Bleeds.flac
+│   │   ├── 12 Bleep Bloop.flac
+│   │   ├── 13 Khaos x4.flac
+│   │   ├── 14 Don't Ask.flac
+│   │   └── cover.jpg
+│   ├── I'm Poppy (Single)
+│   │   ├── 01 I'm Poppy.flac
+│   │   ├── 01 I'm Poppy.lrc
+│   │   └── cover.jpg
+│   ├── Immature Couture (Single)
+│   │   ├── 01 Immature Couture.flac
+│   │   └── cover.jpg
+│   ├── Lowlife (Slushii Remix) (Single)
+│   │   ├── 01 Lowlife (Slushii Remix).flac
+│   │   └── cover.jpg
+│   ├── Metal (Single)
+│   │   ├── 01 Metal.flac
+│   │   └── cover.jpg
+│   ├── Poppy.Computer (Album)
+│   │   ├── 01 I'm Poppy.flac
+│   │   ├── 01 I'm Poppy.lrc
+│   │   ├── 02 Let's Make A Video.flac
+│   │   ├── 02 Let's Make A Video.lrc
+│   │   ├── 03 Bleach Blonde Baby.flac
+│   │   ├── 03 Bleach Blonde Baby.lrc
+│   │   ├── 04 My Microphone.flac
+│   │   ├── 05 Moshi Moshi.flac
+│   │   ├── 05 Moshi Moshi.lrc
+│   │   ├── 06 Computer Boy.flac
+│   │   ├── 06 Computer Boy.lrc
+│   │   ├── 07 My Style.flac
+│   │   ├── 08 Fuzzy.flac
+│   │   ├── 09 Interweb.flac
+│   │   ├── 09 Interweb.lrc
+│   │   ├── 10 Software Upgrade.flac
+│   │   ├── 10 Software Upgrade.lrc
+│   │   ├── 11 Pop Music.flac
+│   │   └── cover.jpg
+│   ├── Poppy.Remixes (Album)
+│   │   ├── 01 Interweb (Nebbra Remix).flac
+│   │   ├── 02 Moshi Moshi (Noboru Remix).flac
+│   │   ├── 03 Moshi Moshi (Mitch Murder Remix).flac
+│   │   ├── 04 Moshi Moshi (CLARABELL Remix).flac
+│   │   ├── 05 Moshi Moshi (YUTO Remix).flac
+│   │   └── cover.jpg
+│   └── X (Acoustic) (Single)
+│       ├── 01 X (Acoustic).flac
+│       └── cover.jpg
+├── Superorganism
+│   ├── Congratulations (triple j Like A Version) (Single)
+│   │   ├── 01 Congratulations (triple j Like A Version).flac
+│   │   ├── 01 Congratulations.flac
+│   │   └── cover.jpg
+│   ├── Everybody Wants To Be Famous (Polo & Pan Remix) (Single)
+│   │   ├── 01 Everybody Wants To Be Famous (Polo & Pan Remix).flac
+│   │   ├── 01 Everybody Wants To Be Famous (Polo & Pan Remix).lrc
+│   │   └── cover.jpg
+│   ├── Famous (2.0 Dan the Automator on the Fader) (Single)
+│   │   ├── 01 Famous (2.0 Dan the Automator on the Fader).flac
+│   │   └── cover.jpg
+│   ├── Famous Todos (Single)
+│   │   ├── 01 Famous Todos.flac
+│   │   └── cover.jpg
+│   ├── Night Time (Danny L Harle Remix) (Single)
+│   │   ├── 01 Night Time (Danny L Harle Remix).flac
+│   │   └── cover.jpg
+│   ├── Night Time (Digitalism Nineties Time Remix) (Single)
+│   │   ├── 01 Night Time (Digitalism Nineties Time Remix).flac
+│   │   └── cover.jpg
+│   ├── Night Time (Edit) (Single)
+│   │   ├── 01 Night Time (Edit).flac
+│   │   ├── 01 Night Time (Edit).lrc
+│   │   └── cover.jpg
+│   ├── Something For Your M.I.N.D. (Joe Goddard Remix) (Single)
+│   │   ├── 01 Something For Your M.I.N.D. (Joe Goddard Remix).flac
+│   │   └── cover.jpg
+│   ├── Something For Your M.I.N.D. (el der Remix) (Single)
+│   │   ├── 01 Something For Your M.I.N.D. (el der Remix).flac
+│   │   └── cover.jpg
+│   └── Superorganism (Album)
+│       ├── 01 It’s All Good.flac
+│       ├── 01 It’s All Good.lrc
+│       ├── 02 Everybody Wants To Be Famous.flac
+│       ├── 02 Everybody Wants To Be Famous.lrc
+│       ├── 03 Nobody Cares.flac
+│       ├── 03 Nobody Cares.lrc
+│       ├── 04 Reflections On The Screen.flac
+│       ├── 04 Reflections On The Screen.lrc
+│       ├── 05 SPRORGNSM.flac
+│       ├── 05 SPRORGNSM.lrc
+│       ├── 06 Something For Your M.I.N.D.flac
+│       ├── 06 Something For Your M.I.N.D.lrc
+│       ├── 07 Nai’s March.flac
+│       ├── 07 Nai’s March.lrc
+│       ├── 08 The Prawn Song.flac
+│       ├── 08 The Prawn Song.lrc
+│       ├── 09 Relax.flac
+│       ├── 09 Relax.lrc
+│       ├── 10 Night Time.flac
+│       ├── 10 Night Time.lrc
+│       └── cover.jpg
+├── Whethan
+│   └── All In My Head (feat. grandson) (Single)
+│       ├── 01 All In My Head (feat. grandson).flac
+│       └── cover.jpg
+└── X Ambassadors
+    └── Zen (Single)
+        ├── 01 Zen.flac
+        └── cover.jpg
+
+102 directories, 536 files
